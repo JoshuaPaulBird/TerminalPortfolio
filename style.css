@@ -52,7 +52,7 @@ body {
 }
 
 .min   { background:#e2e2e2; }
-.max   { background:#9ece6a; }
+.max   { background:#159404; }
 .close { background:#f7768e; }
 
 .body {
@@ -92,4 +92,4 @@ body {
 .cmd  { color:#7aa2f7; font-weight:bold; }
 .link { color:#7aa2f7; text-decoration:underline; cursor:pointer; }
 .link:hover { color:#bb9af7; }
-.prompt { color: #7aa2f7; font-weight: 600; user-select: none; }
+.prompt { color: #159404; font-weight: 600; user-select: none; }
