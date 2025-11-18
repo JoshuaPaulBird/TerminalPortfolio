@@ -36,7 +36,7 @@ const commands = {
     ""
   ].join("<br>"),
 
-  "cat intrusion-detector": () => [
+  "cat Network-Intrusion-Detection-App": () => [
     "Android Network Intrusion Detection System (Final Year Project • 2025)",
     "",
     "• Solo 40-credit project with 10,000-word dissertation",
@@ -50,7 +50,7 @@ const commands = {
     ""
   ].join("<br>"),
 
-  "cat night-safety-app": () => [
+  "cat Night-Journey-Safety-App": () => [
     "Night-Time Safety Companion App (Group Project • 2024)",
     "",
     "• 6-person team delivering full-stack Android safety solution for Cardiff students",
