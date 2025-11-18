@@ -22,6 +22,7 @@ const commands = {
     "  <span class=\"cmd\">contact</span>         reach me",
     "  <span class=\"cmd\">clear</span>           clear screen",
     "  <span class=\"cmd\">cv</span>           download my cv",
+    "  <span class=\"cmd\">repo</span>           check out the repo for this site",
     ""
   ].join("<br>"),
 
@@ -91,6 +92,8 @@ const commands = {
 
   social: () => "LinkedIn → <a href=\"https://www.linkedin.com/in/joshua-p-bird/\" class=\"link\">linkedin.com/in/joshua-p-bird</a>",
 
+  repo: () => "Repo for this site → <a href=\"https://github.com/JoshuaPaulBird/TerminalPortfolio\" class=\"link\">github.com/JoshuaPaulBird/TerminalPortfolio</a>",
+
   contact: () => [
     "Email    → <a href=\"mailto:sgjpb123@gmail.com\" class=\"link\">sgjpb123@gmail.com</a>",
     "Phone    → 07746 423612",
@@ -102,7 +105,7 @@ const commands = {
 };
 
 const allCommands = [
-  'help','whoami','ls','skills','social','contact','clear', 'cv',
+  'help','whoami','ls','skills','social','contact','clear', 'cv', 'repo',
   'cat intrusion-detector','cat night-safety-app','cat Homelab-And-Selfhosting'
 ];
 
