@@ -46,19 +46,19 @@ const commands = {
     "• Measured accuracy, false positive rate, and device overhead",
     "",
     "<span style=\"color:#9ece6a\">Key skills demonstrated:</span>",
-    "Machine Learning • Python (pandas, scikit-learn) • TensorFlow Lite • Java Android • Technical writing • Performance profiling",
+    "Machine Learning • Python (initial training for model) • TensorFlow Lite • Java Android • Technical writing • Performance profiling",
     ""
   ].join("<br>"),
 
   "cat Night-Journey-Safety-App": () => [
     "Night-Time Safety Companion App (Group Project • 2024)",
     "",
-    "• 6-person team delivering full-stack Android safety solution for Cardiff students",
+    "• 6-person team delivering prototype for an Android route monitoring tool to help people get home safely",
     "• Java Android + Mapbox SDK for route planning and live tracking",
     "• Fall detection via accelerometer, route deviation & timer-based alerts",
     "• Emergency flow: vibration warning → automatic call/SMS to trusted contacts",
     "• Flask + Python REST API, MariaDB backend, deployed on Red Hat OpenShift",
-    "• Full Agile: weekly supervisor meetings, mock client (Cardiff Police), real-world testing, 80+ page report",
+    "• Full Agile: weekly supervisor meetings, mock client interviews (playing role of Cardiff Police), real-world testing, 80+ page report",
     "",
     "<span style=\"color:#9ece6a\">Key skills demonstrated:</span>",
     "Java Android • Flask • MariaDB • OpenShift • Mapbox API • Agile • Team leadership • Client communication • Sensor fusion",
@@ -81,7 +81,7 @@ const commands = {
   ].join("<br>"),
 
   skills: () => [
-    "Languages      → Python • Java • SQL • JavaScript • Bash",
+    "Languages      → Python • Java • SQL • JavaScript",
     "Frameworks     → Flask • Android SDK",
     "Databases      → MariaDB • MongoDB • Neo4j",
     "DevOps         → Docker • Proxmox • Caddy • OpenShift • Tailscale/Headscale",
