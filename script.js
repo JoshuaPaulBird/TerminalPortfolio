@@ -106,7 +106,7 @@ const commands = {
 
 const allCommands = [
   'help','whoami','ls','skills','social','contact','clear', 'cv', 'repo',
-  'cat intrusion-detector','cat night-safety-app','cat Homelab-And-Selfhosting'
+  'cat Network-Intrusion-Detection-App','cat Night-Journey-Safety-App','cat Homelab-And-Selfhosting'
 ];
 
 // ———————————————————————— CORE FUNCTIONS ————————————————————————
