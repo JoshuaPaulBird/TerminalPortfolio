@@ -5,7 +5,7 @@ let historyIndex = -1;
 const commands = {
   cv: () => {
     const link = document.createElement('a');
-    link.href = 'JoshuaPaulBirdCV.pdf';  // ← place your PDF in the same folder
+    link.href = 'JoshuaPaulBirdCV.pdf'; 
     link.download = 'JoshuaPaulBirdCV.pdf';
     document.body.appendChild(link);
     link.click();
